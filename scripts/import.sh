@@ -1,0 +1,1 @@
+sfdx force:data:tree:import -p data/Waypoint__c-plan.json -u tpo

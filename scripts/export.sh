@@ -1,0 +1,1 @@
+sfdx force:data:tree:export -q "SELECT Name FROM Waypoint__c" -p -d data

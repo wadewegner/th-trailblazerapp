@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Waypoint__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Waypoint__cs.json"
+        ]
+    }
+]

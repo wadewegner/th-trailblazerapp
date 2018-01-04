@@ -1,0 +1,322 @@
+[
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049695000,
+            "changeTime": 1514049695000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049695000,
+            "changeTime": 1514049695000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1514050510000,
+            "changeTime": 1514050510000,
+            "contentHash": "1601dfe44d32aa3d38dea7269e63e1c0ab621b3c"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1514049695000,
+            "changeTime": 1514049695000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1514049705000,
+            "changeTime": 1514049705000,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/objects/Waypoint__c/Waypoint__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/objects/Waypoint__c/Waypoint__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2135,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "d7c407728aa38c1f3f4b768c69e14364eb253d44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/layouts/Waypoint__c-Waypoint Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/layouts/Waypoint__c-Waypoint Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2654,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/flexipages/Trailblazer_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/flexipages/Trailblazer_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "35df5ab974ce494727013bd1a6783a898fe6c3e6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/tabs/Waypoint__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/tabs/Waypoint__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "45a8aa17351591d8340a977d84c9da06a1fce5c5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/applications/Trailblazer.app-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/applications/Trailblazer.app-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "3771d2ebd35fb106a927d2737088cef7355c6f6c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4497,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "32616ccdb71dfcf7b25b1492d7b1918ce23a7596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4835,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "cba9766e6a3e80e33f41c539400d2ff1c6bf1836",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4497,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "32616ccdb71dfcf7b25b1492d7b1918ce23a7596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17528,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "daf2fb35cc9e1a454ebdfdc3df641a5c0ccb4e8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/objects/Waypoint__c",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/objects/Waypoint__c",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "09871bdcb0514a0ddcd056c7f0077baafcc74824",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "bcd5debf775aa93b5801fa9fe6e9c9ba5e5ae30c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1514050510000,
+            "changeTime": 1514050510000,
+            "contentHash": "2ffbf4866852c6ec689a8ac99703fe372124ebca"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "2cdd20c918538e02fcd91663b190224e429c7627",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "9a458cabf768b8a58d60542aeaefcd1a682b8419",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "05e83ad515aa79a13345db65e1dae5eff7265e2b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1514049882000,
+            "changeTime": 1514049882000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/layouts/Global-Global Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/layouts/Global-Global Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1707,
+            "modifiedTime": 1514050510000,
+            "changeTime": 1514050510000,
+            "contentHash": "c6edf9cf0932ace3179090f9586a00128d598330"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/quickActions/Waypoint.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/quickActions/Waypoint.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 704,
+            "modifiedTime": 1514050510000,
+            "changeTime": 1514050510000,
+            "contentHash": "5a8990a01371ab292cd423157a6c4570e7c105a0"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/quickActions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/trailblazerapp/force-app/main/default/quickActions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1514050510000,
+            "changeTime": 1514050510000,
+            "contentHash": "de8447ddb34b3d10fcb9c31f9cd0e83122ad0d73"
+        }
+    ]
+]

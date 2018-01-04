@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Waypoint__c",
+                "referenceId": "Waypoint__cRef1"
+            },
+            "Name": "Half Dome"
+        },
+        {
+            "attributes": {
+                "type": "Waypoint__c",
+                "referenceId": "Waypoint__cRef2"
+            },
+            "Name": "El Capitan"
+        },
+        {
+            "attributes": {
+                "type": "Waypoint__c",
+                "referenceId": "Waypoint__cRef3"
+            },
+            "Name": "Glacier Point"
+        }
+    ]
+}
